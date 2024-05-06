@@ -91,7 +91,8 @@ int main(void)
 
 LED OFF:
 
- ![WhatsApp Image 2024-04-01 at 11 08 05 AM](https://github.com/VelasiriSreeja/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118344328/66c750b7-5a08-469e-9844-33ce80c885c4)
+ ![PMC_2 1](https://github.com/gummadileepkumar/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118707761/c4569141-edce-45fc-804d-ac72bfbdd5d9)
+
 
  LED ON:
  
