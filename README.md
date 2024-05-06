@@ -89,8 +89,11 @@ int main(void)
 ```
 ## Output  :
 
+LED OFF:
+
  ![WhatsApp Image 2024-04-01 at 11 08 05 AM](https://github.com/VelasiriSreeja/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118344328/66c750b7-5a08-469e-9844-33ce80c885c4)
 
+ LED ON:
  
  ![WhatsApp Image 2024-04-01 at 11 08 05 AM (1)](https://github.com/VelasiriSreeja/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118344328/f1f0cc96-759c-49a9-aeb5-417a9b5a8f35)
 
